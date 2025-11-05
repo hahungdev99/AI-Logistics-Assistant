@@ -1,0 +1,71 @@
+id,route,warehouse,delivery_time_days,delay_minutes,delay_reason,date,processing_time_hours,shipment_value,weight_kg,destination_city,on_time
+1,Route A,WH1,5.2,30,Weather,2024-10-01,24,15000,250,New York,No
+2,Route B,WH2,4.8,0,None,2024-10-01,18,12000,180,Los Angeles,Yes
+3,Route C,WH1,6.1,45,Traffic,2024-10-02,28,18000,320,Chicago,No
+4,Route A,WH3,5.0,0,None,2024-10-02,20,14000,200,Houston,Yes
+5,Route B,WH1,5.5,15,Weather,2024-10-03,22,16000,270,Phoenix,No
+6,Route C,WH2,4.9,0,None,2024-10-03,19,13000,190,Philadelphia,Yes
+7,Route A,WH1,5.8,60,Mechanical,2024-10-04,30,20000,350,San Antonio,No
+8,Route B,WH3,4.7,0,None,2024-10-04,17,11000,160,San Diego,Yes
+9,Route C,WH1,6.2,90,Traffic,2024-10-05,32,22000,380,Dallas,No
+10,Route A,WH2,5.1,20,Weather,2024-10-05,21,15500,260,San Jose,No
+11,Route B,WH1,4.6,0,None,2024-10-06,16,10500,150,Austin,Yes
+12,Route C,WH3,5.3,25,Customs,2024-10-06,23,17000,290,Jacksonville,No
+13,Route A,WH1,5.9,75,Mechanical,2024-10-07,31,21000,360,Fort Worth,No
+14,Route B,WH2,4.8,0,None,2024-10-07,18,12500,185,Columbus,Yes
+15,Route C,WH1,6.0,50,Traffic,2024-10-08,29,19000,330,Charlotte,No
+16,Route A,WH3,5.2,10,None,2024-10-08,20,14500,210,San Francisco,Yes
+17,Route B,WH1,4.9,0,None,2024-10-09,19,13500,195,Indianapolis,Yes
+18,Route C,WH2,5.4,35,Weather,2024-10-09,24,17500,300,Seattle,No
+19,Route A,WH1,6.1,80,Mechanical,2024-10-10,33,23000,390,Denver,No
+20,Route B,WH3,4.7,0,None,2024-10-10,17,11500,165,Washington,Yes
+21,Route C,WH1,5.6,40,Traffic,2024-10-11,26,18500,310,Boston,No
+22,Route A,WH2,5.0,0,None,2024-10-11,20,14000,200,El Paso,Yes
+23,Route B,WH1,4.8,5,None,2024-10-12,18,12500,180,Nashville,Yes
+24,Route C,WH3,5.5,30,Customs,2024-10-12,25,16500,280,Detroit,No
+25,Route A,WH1,6.3,95,Weather,2024-10-13,34,24000,400,Portland,No
+26,Route B,WH2,4.9,0,None,2024-10-13,19,13000,190,Memphis,Yes
+27,Route C,WH1,5.7,55,Traffic,2024-10-14,27,19500,340,Oklahoma City,No
+28,Route A,WH3,5.1,15,None,2024-10-14,21,15000,250,Las Vegas,No
+29,Route B,WH1,4.6,0,None,2024-10-15,16,10000,140,Louisville,Yes
+30,Route C,WH2,5.2,20,Weather,2024-10-15,22,16000,270,Baltimore,No
+31,Route A,WH1,5.8,70,Mechanical,2024-10-16,30,21500,370,Milwaukee,No
+32,Route B,WH3,4.8,0,None,2024-10-16,18,12000,180,Albuquerque,Yes
+33,Route C,WH1,6.0,65,Traffic,2024-10-17,28,20000,350,Tucson,No
+34,Route A,WH2,5.3,25,Weather,2024-10-17,23,16500,280,Fresno,No
+35,Route B,WH1,4.7,0,None,2024-10-18,17,11500,170,Sacramento,Yes
+36,Route C,WH3,5.4,30,Customs,2024-10-18,24,17000,290,Mesa,No
+37,Route A,WH1,6.2,85,Mechanical,2024-10-19,32,22500,385,Kansas City,No
+38,Route B,WH2,4.9,0,None,2024-10-19,19,13000,190,Atlanta,Yes
+39,Route C,WH1,5.5,45,Traffic,2024-10-20,25,18000,320,Long Beach,No
+40,Route A,WH3,5.0,0,None,2024-10-20,20,14000,200,Colorado Springs,Yes
+41,Route B,WH1,4.8,10,None,2024-10-21,18,12500,185,Raleigh,Yes
+42,Route C,WH2,5.6,50,Weather,2024-10-21,26,18500,310,Miami,No
+43,Route A,WH1,6.1,90,Mechanical,2024-10-22,33,23500,395,Virginia Beach,No
+44,Route B,WH3,4.7,0,None,2024-10-22,17,11000,160,Omaha,Yes
+45,Route C,WH1,5.9,60,Traffic,2024-10-23,29,19500,340,Oakland,No
+46,Route A,WH2,5.2,20,Weather,2024-10-23,22,15500,260,Minneapolis,No
+47,Route B,WH1,4.6,0,None,2024-10-24,16,10500,150,Tulsa,Yes
+48,Route C,WH3,5.3,35,Customs,2024-10-24,23,17000,290,Arlington,No
+49,Route A,WH1,5.7,55,Traffic,2024-10-25,27,19000,330,New Orleans,No
+50,Route B,WH2,4.9,0,None,2024-10-25,19,13500,195,Wichita,Yes
+51,Route C,WH1,6.0,70,Mechanical,2024-10-26,30,20500,360,Cleveland,No
+52,Route A,WH3,5.1,15,None,2024-10-26,21,14500,210,Tampa,No
+53,Route B,WH1,4.8,0,None,2024-10-27,18,12000,180,Bakersfield,Yes
+54,Route C,WH2,5.4,40,Weather,2024-10-27,24,17500,300,Aurora,No
+55,Route A,WH1,6.3,100,Mechanical,2024-10-28,35,24500,410,Anaheim,No
+56,Route B,WH3,4.7,0,None,2024-10-28,17,11500,165,Honolulu,Yes
+57,Route C,WH1,5.8,65,Traffic,2024-10-29,28,20000,350,Santa Ana,No
+58,Route A,WH2,5.2,25,Weather,2024-10-29,22,16000,270,Corpus Christi,No
+59,Route B,WH1,4.9,0,None,2024-10-30,19,13000,190,Riverside,Yes
+60,Route C,WH3,5.5,45,Customs,2024-10-30,25,18000,310,Lexington,No
+61,Route A,WH1,6.1,80,Mechanical,2024-10-31,32,22000,380,Stockton,No
+62,Route B,WH2,4.8,0,None,2024-10-31,18,12500,185,Henderson,Yes
+63,Route C,WH1,5.6,50,Traffic,2024-11-01,26,19000,330,Saint Paul,No
+64,Route A,WH3,5.0,0,None,2024-11-01,20,14000,200,Cincinnati,Yes
+65,Route B,WH1,4.7,5,None,2024-11-02,17,11000,160,Pittsburgh,Yes
+66,Route C,WH2,5.3,30,Weather,2024-11-02,23,17000,290,Greensboro,No
+67,Route A,WH1,5.9,75,Mechanical,2024-11-03,31,21500,370,Lincoln,No
+68,Route B,WH3,4.9,0,None,2024-11-03,19,13500,195,Anchorage,Yes
+69,Route C,WH1,6.2,90,Traffic,2024-11-04,33,23000,390,Plano,No
+70,Route A,WH2,5.1,20,Weather,2024-11-04,21,15000,250,Orlando,No
